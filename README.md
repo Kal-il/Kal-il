@@ -7,10 +7,10 @@
 
 
 ## 🌐 Socials:
+
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/no_kalil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kalil-garcia-canuto-01361023b) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/@kalilgarcia38) 
 <br>
-<p>&nbsp;</p>
-
 ---
 
 
