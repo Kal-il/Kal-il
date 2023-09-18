@@ -20,13 +20,13 @@
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kal-il&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=true" width="440px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kal-il&theme=vision-friendly-dark&hide_border=true" width="484px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kal-il&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=true" width="400px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kal-il&theme=vision-friendly-dark&hide_border=true" width="440px" />
  
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kal-il&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" width="440px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kal-il&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" width="400px" />
  
 </div>
 
